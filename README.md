@@ -23,7 +23,6 @@ Software developer with 4+ years of full stack experience, specializing in backe
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/anuragjoshi11)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:anurag2711@gmail.com)
-[![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=flat&logo=hackerearth)](https://www.hackerearth.com/@anurag2711)
 
 ---
 
